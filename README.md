@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **OS Batch App for Opensceen App Store**
 
-- 🌱 I’m currently learning **Angular, Next.js, Tailwind, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot, Microservices and Kafka**
 
 - 👯 I’m looking to collaborate on **SparkUp - Social Media Web App (Angular)**
 
-- 💬 Ask me about **React, Node.js, Express.js**
+- 💬 Ask me about **React, Angular, Java Spring, Node.js, Express.js**
 
 - 📫 How to reach me **rahulbt2016@gmail.com**
 
