@@ -21,7 +21,7 @@
 
 - 🎥 Checkout out the Movies App I developed [**here**](https://movies-app.cyclic.app/)
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/14JU5EUJAO6yrk9v_tl3IImlfOKPAP99c/view?usp=sharing](https://drive.google.com/file/d/1aC9ave7Hq1RVEKip6JwbbfXM2pKNaRyc/view?usp=sharing/)
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1aC9ave7Hq1RVEKip6JwbbfXM2pKNaRyc/view?usp=sharing)
 
 - ⚡ Fun fact **I am a passionate Belieber and JB follows me in twitter**
 
