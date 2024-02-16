@@ -3,21 +3,25 @@
 
 <p align="left"> <a href="https://twitter.com/rahulbt98" target="blank"><img src="https://img.shields.io/twitter/follow/rahulbt98?logo=twitter&style=for-the-badge" alt="rahulbt98" /></a> </p>
 
-- 🔭 I’m currently working on **OS Batch App for Opensceen App Store**
+- 🔭 I’m currently working on **Bank Design - Full Stack Application with Spring Boot and Angular**
 
 - 🌱 I’m currently learning **Spring Boot, Microservices and Kafka**
 
-- 👯 I’m looking to collaborate on **SparkUp - Social Media Web App (Angular)**
+- 👯 I’m looking to collaborate on **some fun hackathon in the town**
 
-- 💬 Ask me about **React, Angular, Java Spring, Node.js, Express.js**
+- 💬 Ask me about **Java, Spring Boot, Angular, React, Node.js, Express.js**
 
 - 📫 How to reach me **rahulbt2016@gmail.com**
 
 - 🌐 Check out my portfolio [**here**](https://rahul-tiwari.vercel.app/)
 
-- 🎥 Checkout the Movies App I developed [**here**](https://movies-app.cyclic.app/)
+- Check out the SparkUp - Social Media I developed [**here**](https://sparkup-react.vercel.app/)
 
-- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/14JU5EUJAO6yrk9v_tl3IImlfOKPAP99c/view?usp=sharing) 
+- 🚂 Check out the Go Train API I developed [**here**](https://go-train-schedule-api.azurewebsites.net/api-docs/)
+
+- 🎥 Checkout out the Movies App I developed [**here**](https://movies-app.cyclic.app/)
+
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/14JU5EUJAO6yrk9v_tl3IImlfOKPAP99c/view?usp=sharing](https://drive.google.com/file/d/1aC9ave7Hq1RVEKip6JwbbfXM2pKNaRyc/view?usp=sharing/)
 
 - ⚡ Fun fact **I am a passionate Belieber and JB follows me in twitter**
 
